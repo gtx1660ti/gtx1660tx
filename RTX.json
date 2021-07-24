@@ -1,14 +1,111 @@
 [
-  {
-    "name": "Untitl7844566464.png",
-    "url": "https://raw.githubusercontent.com/gtx1660ti/gtx1660tx/main/Untitl7844566464.png"
-  },
-  {
-    "name": "Second Wallpaper",
-    "url": "https://www.example.com/second-wallpaper.png"
-  },
-  {
-    "name": "Third Wallpaper",
-    "url": "https://www.example.com/third-wallpaper.png"
-  }
+      {
+		"name": "201",
+		"author": "Jackson",
+		"url": "https://raw.githubusercontent.com/Jacksonhayes/NBW/main/201.png",
+		"thumbnail": "",
+		"dimensions": "2597*4617",
+		"copyright": "yes",
+		"collections": "Handdrawn"
+	},
+      {
+		"name": "202",
+		"author": "Jackson",
+		"url": "https://raw.githubusercontent.com/Jacksonhayes/NBW/main/202.png",
+		"collections": "New"
+	},
+	{
+		"name": "203",
+		"author": "Jackson",
+		"url": "https://raw.githubusercontent.com/Jacksonhayes/NBW/main/203.png",
+		"dimensions": "2449*4899",
+		"collections": "people,city,new",
+		"downloadable": true
+	},
+	{
+		"author": "Someone",
+		"url": "https://raw.githubusercontent.com/jahirfiquitiva/MinDesigns-Wallpapers/master/Wallpapers/Free/wallc.jpg",
+		"name": "ShotC",
+		"dimensions": "1280x720",
+		"copyright": "Credits to its creator",
+		"collections": "landscapes,city"
+	},
+	{
+		"name": "image3A10501_Glitch",
+		"author": "ASDLOR",
+		"url": "https://raw.githubusercontent.com/Jacksonhayes/NBW/main/image3A10501_Glitch.png",
+		"dimensions": "3200x2560",
+		"copyright": "Personal Use, Credits Required",
+		"collections": "featured,landscapes,people,city,NEW",
+		"featured": true
+	},
+	{
+		"name": "204",
+		"author": "Jackson",
+		"url": "https://raw.githubusercontent.com/Jacksonhayes/NBW/main/204.png",
+		"dimensions": "2041*3062",
+		"copyright": "Personal Use, Credits Required",
+		"collections": "featured,landscapes,people,food"
+	},
+	{
+		"name": "300",
+		"author": "Jackson",
+		"url": "https://raw.githubusercontent.com/Jacksonhayes/NBW/main/300.png",
+		"thumbnail": "https://via.placeholder.com/450",
+		"dimensions": "2597*4617",
+		"copyright": "Personal Use, Credits Required",
+		"collections": "featured,food,people,sheer"
+	},
+	{
+		"name": "301",
+		"author": "jackson",
+		"url": "https://raw.githubusercontent.com/Jacksonhayes/NBW/main/301.png",
+		"dimensions": "2597*4617",
+		"copyright": "Personal Use, Credits Required",
+		"collections": "landscapes,people,city,sheer"
+	},
+	{
+		"name": "Fluffy1",
+		"author": "Jackson",
+		"url": "https://raw.githubusercontent.com/Jacksonhayes/NBW/main/Fluffy1.png",
+		"thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_e.png",
+		"dimensions": "2324*5163",
+		"copyright": "Personal Use, Credits Required",
+		"collections": "fluffy"
+	},
+	{
+		"name": "Fluffy2",
+		"author": "wallsplash",
+		"url": "https://raw.githubusercontent.com/Jacksonhayes/NBW/main/Fluffy2.png",
+		"dimensions": "2324*5163",
+		"copyright": "Personal Use, Credits Required",
+		"collections": "fluffy"
+	},
+	{
+		"name": "Wallsplash 7",
+		"author": "wallsplash",
+		"url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_g.png",
+		"thumbnail": "https://via.placeholder.com/500",
+		"dimensions": "3200x2560",
+		"copyright": "Free (do whatever you want)",
+		"collections": "landscapes,people"
+	},
+	{
+		"name": "Wallsplash 8",
+		"author": "wallsplash",
+		"url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_h.png",
+		"thumbnail": "https://via.placeholder.com/150",
+		"dimensions": "3200x2560",
+		"copyright": "Free (do whatever you want)",
+		"collections": "food"
+	},
+	{
+		"name": "Webp Image",
+		"author": "unknown",
+		"url": "https://www.gstatic.com/webp/gallery/4.webp",
+		"thumbnail": "https://www.gstatic.com/webp/gallery/5.webp",
+		"dimensions": "3200x2560",
+		"copyright": "Unknown",
+		"collections": "landscapes"
+	}
 ]
